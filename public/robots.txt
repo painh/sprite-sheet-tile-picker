@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://painh.github.io/sprite-sheet-tile-picker/sitemap.xml
